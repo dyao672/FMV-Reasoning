@@ -1,0 +1,109 @@
+{
+  "source": "test-00000-of-00001.parquet",
+  "source_bytes": 224204778,
+  "source_sha256": "2b3421909ac47580d8373d4e7e5a23f0f08365d2cfb54a13100ddfac4a961e87",
+  "rows": 1000,
+  "columns": 13,
+  "max_shard_bytes": 20971520,
+  "shards": [
+    {
+      "file": "test-00000-of-00014.parquet",
+      "rows": 31,
+      "row_start": 0,
+      "bytes": 13641294,
+      "sha256": "d367c45b241bf5a67bbc8da8635893ddcfdf0c15d47818fc0f1ac7d20ea2a2b8"
+    },
+    {
+      "file": "test-00001-of-00014.parquet",
+      "rows": 31,
+      "row_start": 31,
+      "bytes": 7735645,
+      "sha256": "b2150eb5010bec3cef8bde634782f9b76587c70f467ed14866e5f43707bc55be"
+    },
+    {
+      "file": "test-00002-of-00014.parquet",
+      "rows": 63,
+      "row_start": 62,
+      "bytes": 6970288,
+      "sha256": "f6556bacaa15efe00b9a9081dd1d4c4f77228b0f860d618b4d47c53c8a28d075"
+    },
+    {
+      "file": "test-00003-of-00014.parquet",
+      "rows": 62,
+      "row_start": 125,
+      "bytes": 12077020,
+      "sha256": "b4063e456ecb46e5841bde95171aba52e63e460c65e8db03efa8ef52dee3b8b0"
+    },
+    {
+      "file": "test-00004-of-00014.parquet",
+      "rows": 63,
+      "row_start": 187,
+      "bytes": 11448196,
+      "sha256": "cabe7a04a56ec3ecef88bf861e8116d349b3993500fb4de863fc87c6b6d6cbf0"
+    },
+    {
+      "file": "test-00005-of-00014.parquet",
+      "rows": 125,
+      "row_start": 250,
+      "bytes": 20299898,
+      "sha256": "a4b866667d3b0b889727daa287227598643879f774404d77d51de208ad99dd5a"
+    },
+    {
+      "file": "test-00006-of-00014.parquet",
+      "rows": 125,
+      "row_start": 375,
+      "bytes": 18534325,
+      "sha256": "48460035e63ee70ad296eaee62617ff4ecc3d557b48625e2142a8b1ed21c2d06"
+    },
+    {
+      "file": "test-00007-of-00014.parquet",
+      "rows": 62,
+      "row_start": 500,
+      "bytes": 20338487,
+      "sha256": "6549bc75c5c26e6b06d88654836d8530c2c5e505cca48f3534d104f3c66cf14a"
+    },
+    {
+      "file": "test-00008-of-00014.parquet",
+      "rows": 63,
+      "row_start": 562,
+      "bytes": 15435412,
+      "sha256": "d2534188d2b0b37c45902be930febca5ea9254a5073755fa1fa69551f0769a71"
+    },
+    {
+      "file": "test-00009-of-00014.parquet",
+      "rows": 62,
+      "row_start": 625,
+      "bytes": 11047552,
+      "sha256": "b48b26d34d28e62daef41a9c863c47a49da5eeb94172e20b38d139a9bdc66ff2"
+    },
+    {
+      "file": "test-00010-of-00014.parquet",
+      "rows": 63,
+      "row_start": 687,
+      "bytes": 13105358,
+      "sha256": "2ca4fc515eb405871b7946782a75c7b4cccf8b5a7a3bcfa6616f492f41bbd998"
+    },
+    {
+      "file": "test-00011-of-00014.parquet",
+      "rows": 125,
+      "row_start": 750,
+      "bytes": 20374028,
+      "sha256": "8fee09ac7a3d1ef2bc1956462fd689b4b4649c1bdf88df9dc09de1e65126d020"
+    },
+    {
+      "file": "test-00012-of-00014.parquet",
+      "rows": 62,
+      "row_start": 875,
+      "bytes": 16915922,
+      "sha256": "92ddb58e688098de14fdd49e520ea98157ab4078d8d35cfca26ad00226b3a4d8"
+    },
+    {
+      "file": "test-00013-of-00014.parquet",
+      "rows": 63,
+      "row_start": 937,
+      "bytes": 10288230,
+      "sha256": "e8254d3efea6e66b367683362eb03903c148c7547c4cfb9f3f7c00cfcb0ec286"
+    }
+  ],
+  "verification": "All shards read back and equal their original row slices, including schema; row order preserved."
+}
